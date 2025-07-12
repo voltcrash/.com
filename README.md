@@ -1,5 +1,4 @@
-## [voltcrash.com](https://voltcrash.com)
+# [voltcrash.com](https://voltcrash.com)
 
-My personal/portfolio page, built with Nuxt and TypeScript
-
-*Work in progress* 🚧 
+my personal portfolio page, built with Nuxt
+*work in progress* 🚧 
